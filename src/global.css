@@ -1,0 +1,11 @@
+.adm-input-element{
+    border: 1px solid #ccc;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.adm-text-area-element{
+    border: 1px solid #ccc;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
